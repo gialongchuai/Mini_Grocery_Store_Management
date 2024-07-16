@@ -1,0 +1,96 @@
+C:\Users\MSII\Desktop\odnet\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe.config
+C:\Users\MSII\Desktop\odnet\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csprojResolveAssemblyReference.cache
+C:\Users\MSII\Desktop\odnet\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Login.resources
+C:\Users\MSII\Desktop\odnet\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Properties.Resources.resources
+C:\Users\MSII\Desktop\odnet\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csproj.GenerateResource.Cache
+C:\Users\MSII\Desktop\odnet\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\odnet\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\odnet\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\odnet\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\odnet\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Selling.resources
+C:\Users\MSII\Desktop\odnet\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Product.resources
+C:\Users\MSII\Desktop\odnet\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Account.resources
+C:\Users\MSII\Desktop\odnet\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Category.resources
+C:\Users\MSII\Desktop\send\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe.config
+C:\Users\MSII\Desktop\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\send\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\send\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csprojResolveAssemblyReference.cache
+C:\Users\MSII\Desktop\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Account.resources
+C:\Users\MSII\Desktop\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Category.resources
+C:\Users\MSII\Desktop\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Login.resources
+C:\Users\MSII\Desktop\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Product.resources
+C:\Users\MSII\Desktop\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Properties.Resources.resources
+C:\Users\MSII\Desktop\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Selling.resources
+C:\Users\MSII\Desktop\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csproj.GenerateResource.Cache
+C:\Users\MSII\Desktop\old\send\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe.config
+C:\Users\MSII\Desktop\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\old\send\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\old\send\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csprojResolveAssemblyReference.cache
+C:\Users\MSII\Desktop\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Account.resources
+C:\Users\MSII\Desktop\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Category.resources
+C:\Users\MSII\Desktop\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Login.resources
+C:\Users\MSII\Desktop\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Product.resources
+C:\Users\MSII\Desktop\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Properties.Resources.resources
+C:\Users\MSII\Desktop\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Selling.resources
+C:\Users\MSII\Desktop\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csproj.GenerateResource.Cache
+C:\Users\MSII\Desktop\z\old\send\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe.config
+C:\Users\MSII\Desktop\z\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\z\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\z\old\send\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\z\old\send\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\z\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csprojResolveAssemblyReference.cache
+C:\Users\MSII\Desktop\z\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Account.resources
+C:\Users\MSII\Desktop\z\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Category.resources
+C:\Users\MSII\Desktop\z\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Login.resources
+C:\Users\MSII\Desktop\z\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Product.resources
+C:\Users\MSII\Desktop\z\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Properties.Resources.resources
+C:\Users\MSII\Desktop\z\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Selling.resources
+C:\Users\MSII\Desktop\z\old\send\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csproj.GenerateResource.Cache
+C:\Users\MSII\Desktop\send - Sao chép (3)\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe.config
+C:\Users\MSII\Desktop\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\send - Sao chép (3)\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\send - Sao chép (3)\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csprojResolveAssemblyReference.cache
+C:\Users\MSII\Desktop\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Account.resources
+C:\Users\MSII\Desktop\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Category.resources
+C:\Users\MSII\Desktop\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Login.resources
+C:\Users\MSII\Desktop\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Product.resources
+C:\Users\MSII\Desktop\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Properties.Resources.resources
+C:\Users\MSII\Desktop\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Selling.resources
+C:\Users\MSII\Desktop\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csproj.GenerateResource.Cache
+C:\Users\MSII\Desktop\update\send - Sao chép (3)\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe.config
+C:\Users\MSII\Desktop\update\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\update\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\update\send - Sao chép (3)\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\update\send - Sao chép (3)\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\update\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csprojResolveAssemblyReference.cache
+C:\Users\MSII\Desktop\update\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Account.resources
+C:\Users\MSII\Desktop\update\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Category.resources
+C:\Users\MSII\Desktop\update\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Login.resources
+C:\Users\MSII\Desktop\update\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Product.resources
+C:\Users\MSII\Desktop\update\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Properties.Resources.resources
+C:\Users\MSII\Desktop\update\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Selling.resources
+C:\Users\MSII\Desktop\update\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csproj.GenerateResource.Cache
+C:\Users\MSII\Desktop\update\send - Sao chép (3)\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Statistical.resources
+C:\Users\MSII\Desktop\file_nop\update\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe.config
+C:\Users\MSII\Desktop\file_nop\update\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\file_nop\update\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe.config
+C:\Users\MSII\Desktop\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.exe
+C:\Users\MSII\Desktop\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\bin\Debug\QLCuaHang.pdb
+C:\Users\MSII\Desktop\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csprojResolveAssemblyReference.cache
+C:\Users\MSII\Desktop\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Account.resources
+C:\Users\MSII\Desktop\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Category.resources
+C:\Users\MSII\Desktop\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Login.resources
+C:\Users\MSII\Desktop\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Product.resources
+C:\Users\MSII\Desktop\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Properties.Resources.resources
+C:\Users\MSII\Desktop\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Selling.resources
+C:\Users\MSII\Desktop\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.Statistical.resources
+C:\Users\MSII\Desktop\Nhom14_QLCuaHangTapHoa\QLCuaHang\QLCuaHang\obj\Debug\QLCuaHang.csproj.GenerateResource.Cache
