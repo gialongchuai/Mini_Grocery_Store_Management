@@ -1,18 +1,25 @@
 # Mini Grocery Store Management
 
-## User Guide
+## Overview
+Mini Grocery Store Management is a Windows Forms application designed to manage grocery store operations. The application is built using C# and connects to an SQL Server database for data management.
 
-### Prerequisites
+## Requirements
+- Visual Studio 2013 or later
+- SQL Server
 
-SQL Database: Ensure the SQL database is set up and running.
+## Installation
 
-### Installation
-Clone Repository: Clone the repository to your local machine.
+### Step 1: Setting up the Database
+- Ensure you have SQL Server installed and running.
+- Open SQL Server Management Studio (SSMS).
+- Execute the SQL script provided in `QL_CuaHang.sql` to set up the database.
+   - To do this, open `QL_CuaHang.sql` in SSMS.
+   - Select the appropriate database (or create a new one) and execute the script by pressing the "Execute" button.
 
-Open Solution File: Open the .sln file in Visual Studio 2013 or later.
+### Step 2: Configuring the Application
+- Open the solution file `QLCuaHang.sln` in Visual Studio 2013 or later.
+- Connect to the database
 
-### Usage
-
-Build Project: Build the solution in Visual Studio.
-
-Run Application: Start the application to manage your mini grocery store.
+### Step 3: Running the Application
+- Build the solution in Visual Studio by selecting `Build > Build Solution`.
+- Start the application by pressing the "Start" button or selecting `Debug > Start Without Debugging`.
